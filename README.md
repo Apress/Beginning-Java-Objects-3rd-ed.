@@ -3,7 +3,7 @@
 This repository accompanies [*Beginning Java Objects 3rd ed.*](https://www.link.springer.com/book/10.1007/978-1-4842-9060-6) by Jacquie Barker (Apress, 2023).
 
 [comment]: #cover
-![Cover image](978-1-4842-9059-0.jpg)
+![Cover image](978-1-4842-9059-0small.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
